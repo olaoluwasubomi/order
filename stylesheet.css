@@ -1,0 +1,97 @@
+*{
+    padding:0;
+    margin:0;
+}
+/*****BEGINNING OF 1ST SECTION STYLING***********/
+.section{
+    height:50vh;
+    background-image:url("balazs-ketyi-LPWl2pEVGKc-unsplash.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    display:flex;
+}
+.sub-one{
+    padding:100px;
+    font-size:150%;
+    font-family:Arial, Helvetica, sans-serif;
+    color:royalblue;
+    text-align:center;
+}
+.address{
+    text-align:center;
+    text-transform:uppercase;
+    color:royalblue;
+    font-size:90%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* padding:90px; */
+    padding-top:100px;
+}
+/**********END OF 1ST SECTION STYLING*************/
+
+/**********BEGINNING OF 2ND SECTION STYLING**********/
+.two{
+    height:50vh;
+    background-image:url("william-iven-gcsNOsPEXfs-unsplash.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+}
+.color{
+    background-color:rgba(0,0,255,.4);
+    height:50vh;
+}
+.color h3{
+    text-transform:uppercase;
+    text-align:center;
+    color:saddlebrown;
+    font-size:60px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.color ol{
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    font-size:30px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/***********END OF 2ND SECTION STYLING***********/
+
+/***********BEGINNING OF 3RD SECTION STYLING**********/
+.image{
+    height:50vh;
+    background-image:url("img1.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+}
+.image h4{
+    height:15vh;
+    background-color:rgba(0,0,90,.5);
+    text-align:center;
+    text-transform:uppercase;
+    font-family: monospace;
+    font-size:200%;
+    padding-top:50px;
+    color:tomato;
+}
+.design{
+    text-transform:uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:40px;
+    text-align:center;
+    color:snow;
+}
+.payment{
+    height:20vh;
+    background-color:steelblue;
+}
+.payment h5{
+    padding-top:15px;
+    text-transform: uppercase;
+    text-align:center;
+    font-size:45px;
+    font-family:monospace;
+    color:tan;
+}
+.payment p{
+    text-transform: uppercase;
+}
+/*********END OF 3RD SECTION STYLING***********/
